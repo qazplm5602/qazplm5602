@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Domi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazplm5602&show_icons=true&theme=blue-green)
 
 📫 Domi Contact </br>
-<a href="http://domistreaming.kro.kr/" target="_blank"><img src="https://img.shields.io/badge/domiSite-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000"/></a>
+<a href="http://domi.kr/" target="_blank"><img src="https://img.shields.io/badge/domiSite-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000"/></a>
 <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>(discord : 도미#5555)
 
 🔧 Use Code Language </br>
