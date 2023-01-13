@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Domi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazplm5602&show_icons=true&theme=blue-green)
+</br>
+![discord](https://discord.c99.nl/widget/theme-1/433605377209139206.png)
 
 📫 **Domi Contact** </br>
 <a href="http://domi.kr/" target="_blank"><img src="https://img.shields.io/badge/domiSite-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000"/></a>
