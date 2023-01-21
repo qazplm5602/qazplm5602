@@ -38,5 +38,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 
 🎮 **Development Server** ([Fivem](https://fivem.net/) [GTA RP 인생모드]) </br>
+> I don't do this after March 2023
+<!--
 - 🐬 Dolphin Server (__**Korea Server No.1**__) <a href="https://discord.gg/dolp" target="_blank"><img src="https://img.shields.io/badge/Dolphin Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/></a>
 - C Center Server <a href="https://discord.gg/cen" target="_blank"><img src="https://img.shields.io/badge/Center Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/></a>
+-->
