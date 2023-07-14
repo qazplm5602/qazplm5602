@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📫 **Domi Contact** </br>
 <a href="http://domi.kr/" target="_blank"><img src="https://img.shields.io/badge/domiSite-ABF200?style=flat-square&logo=HomeAdvisor&logoColor=000"/></a>
-<img src="https://img.shields.io/badge/%EB%8F%84%EB%AF%B8%235555-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>
+<img src="https://img.shields.io/badge/domi_0-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/>
 
 🔧 **Use Code Language** </br>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>
