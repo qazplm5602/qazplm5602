@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware%20Workstation-607078?style=flat-square&logo=vmware&logoColor=white"/>
 <a href="https://notion.domi.kr/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/>
 <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white"/>
