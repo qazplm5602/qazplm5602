@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/>
 <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white"/>
 
-📖 **Suddddddy Stack** </br>
+📖 **Studdddddy Stack** </br>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
