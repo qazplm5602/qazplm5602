@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
